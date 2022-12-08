@@ -1,3 +1,3 @@
 # Kokoa clone 2020 update.
 
-CSS got so musch better?
+HTML&CSS are so musch better?
